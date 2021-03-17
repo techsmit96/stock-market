@@ -1,0 +1,12 @@
+.herocard {
+  margin-top: 100px;
+  padding: 20px 20px 60px 20px;
+  background-color: rgb(238, 235, 235);
+  transition: 0.3s;
+  border: 1px solid lightgray;
+  border-style: dashed;
+  stroke-dasharray: 2 2;
+}
+.herocard h2 {
+  padding-top: 15px;
+}

@@ -1,0 +1,54 @@
+#datatable {
+  border-radius: 5px 5px 15px 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+tr {
+  border-bottom: 1px solid #ccc;
+}
+.bggray {
+  background-color: rgba(244, 242, 255, 1);
+}
+.cardspace {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.savedata {
+  font-family: sans-serif, Geneva, Tahoma, Verdana;
+  color: rgb(134, 134, 134);
+  font-size: 11px;
+  font-weight: bold;
+  padding: 12px 12px 12px 12px;
+  text-align: center;
+}
+.pbutton {
+  background-color: rgba(109, 91, 208, 1);
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.back {
+  background-color: rgba(244, 242, 255, 1);
+  text-align: center;
+}
+/*symbol design*/
+.mybadge {
+  border-radius: 20px;
+  color: blue;
+  padding: 0px 12px 2px 5px;
+  background-color: lightgray;
+}
+.ellipse {
+  position: absolute;
+  margin: 9px 0px 0px 4px;
+  background-color: blue;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+}

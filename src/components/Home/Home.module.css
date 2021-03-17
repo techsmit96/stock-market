@@ -1,0 +1,55 @@
+.card {
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+input[type='text'] {
+  width: 300px;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  background-color: white;
+  background-image: url('https://www.w3schools.com/howto/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding: 12px 20px 12px 40px;
+}
+tr {
+  border-bottom: 1px solid #ccc;
+}
+
+.bggray {
+  background-color: rgba(244, 242, 255, 1);
+}
+.cardspace {
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+.pbutton {
+  background-color: rgba(109, 91, 208, 1);
+  border: none;
+  border-radius: 4px;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+/*symbol design*/
+.mybadge {
+  border-radius: 20px;
+  color: blue;
+  padding: 0px 12px 2px 5px;
+  background-color: lightgray;
+}
+.ellipse {
+  position: absolute;
+  margin: 9px 0px 0px 4px;
+  background-color: blue;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+}

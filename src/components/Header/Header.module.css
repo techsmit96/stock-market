@@ -1,0 +1,12 @@
+.navbar {
+  background-color: #031c47;
+  position: absolute;
+  width: 100%;
+  height: 76px;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.logo {
+  padding: 12px 10px 10px 20px !important;
+}
